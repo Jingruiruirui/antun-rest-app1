@@ -7,6 +7,8 @@ import java.util.List;
 public class AreaExample {
     protected String orderByClause;
 
+    
+    //11
     protected boolean distinct;
 
     protected List<Criteria> oredCriteria;
